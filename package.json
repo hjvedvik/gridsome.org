@@ -8,7 +8,7 @@
     "build": "gridsome build"
   },
   "dependencies": {
-    "gridsome": "^0.1.0",
+    "gridsome": "git+https://git@github.com/hjvedvik/gridsome-debug.git",
     "typeface-league-spartan": "0.0.44",
     "typeface-nunito": "0.0.54",
     "typography": "^0.16.17",
